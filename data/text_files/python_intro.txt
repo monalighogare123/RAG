@@ -1,0 +1,11 @@
+Python Programming Introduction
+    Python is a simple, powerful, and versatile programming language used for web development, software development, data analysis, AI, ML, and automation.
+
+-Python is a high-level, interpreted, general-purpose programming language.
+-It was created by Guido van Rossum and first released in 1991.
+-Python has a simple and easy-to-read syntax, making it beginner-friendly.
+-Python uses indentation to define blocks of code.
+-It is a dynamically typed language, so we don't need to declare the data type of a variable.
+-Python is open-source and free to use.
+
+    
